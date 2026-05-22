@@ -1,6 +1,6 @@
 # 📊 Análise Operacional para Pequenos Negócios
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 Este projeto nasceu a partir do acompanhamento operacional de um pequeno estúdio de tatuagem que não possuía controle financeiro estruturado.
 
@@ -13,7 +13,7 @@ O objetivo é transformar dados simples do dia a dia em indicadores que ajudem p
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Criar um modelo simples de análise operacional e financeira que possa futuramente evoluir para:
 - dashboards
@@ -23,7 +23,7 @@ Criar um modelo simples de análise operacional e financeira que possa futuramen
 
 ---
 
-## 📈 Indicadores analisados
+##  Indicadores analisados
 
 - faturamento semanal
 - ticket médio
@@ -34,7 +34,7 @@ Criar um modelo simples de análise operacional e financeira que possa futuramen
 
 ---
 
-## 🧠 Principais aprendizados
+##  Principais aprendizados
 
 Durante a análise foi possível perceber que muitos pequenos negócios possuem dificuldade em:
 - organizar dados financeiros
@@ -44,7 +44,7 @@ Durante a análise foi possível perceber que muitos pequenos negócios possuem 
 
 ---
 
-## 🚀 Próximos passos
+##  Próximos passos
 
 - estruturação de dashboard
 - automação de relatórios
